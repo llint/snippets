@@ -3,10 +3,8 @@ snippets
 
 Some interesting code snippets gathered from various sources (work of mine).
 
-
-------------------------------------------------
-1. Cubed Water Volumn
-
+--------
+Cubed Water Volumn
 
 We have a board of NxM square (1x1) cells where each cell may have a non-uniform height of x.  
 
@@ -21,7 +19,6 @@ For example given a board where each number below represents the cell height
 4 4 4  
 
 The volume returned for this board is: 3 units cubed
-
 
 
 4 3 3
